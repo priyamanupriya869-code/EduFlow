@@ -1,0 +1,1 @@
+document.querySelectorAll('.menu-btn').forEach(b=>b.addEventListener('click',()=>document.querySelector('.sidebar')?.classList.toggle('open')));

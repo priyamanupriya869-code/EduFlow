@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+instance/
+eduflow.db
+exports/*
+!exports/.gitkeep
+uploads/*
+!uploads/.gitkeep
+.vscode/
